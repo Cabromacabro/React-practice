@@ -1,0 +1,25 @@
+.fondo-verde {
+  background-color: #00FF00;
+}
+
+.button {
+  cursor: pointer;
+  padding: 3px;
+  border-radius: 3px;
+  border: 1px solid gray;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 30px;
+}
+
+.fondo-Oscuro {
+  background-color: rgb(29, 29, 29);
+}
+
+.fondo-Claro {
+  background-color: rgb(238, 237, 237);
+}
